@@ -1,0 +1,36 @@
+## modo dark
+titulos: #ffffff (white)
+texto: grey-400
+subtitulos: #AFA698 (stone-wall-400)
+ver mas: #AFA698 (stone-wall-400)
+links: grey-400
+hover links: #8D806C (stonewall-500)
+label formulario: grey-400
+border inputs: #706353 (coffee-500)
+fondo: #0C0701 (cannon-black-900)
+gráficos de linea: 
+lineas: #bce6d8 (verde-menta)
+subtono de fondo: #2A2620 (stonewall-900)
+bordes: #706353 (coffee-500)
+boton ppal: #706353
+boton secundario:
+botón de acción:
+detalles:
+
+## modo light
+
+titulos: black
+texto: grey-600
+subtitulos: #2A2620 (stone-wall-900)
+ver mas: #2A2620 (stone-wall-900)
+links: gray-600
+hover links: #271804 (cannon-black-500)
+label formulario: grey-600
+border inputs: #706353 (coffee-500)
+fondo: #E9E8E6
+lineas: #86918E (swans-down-700)
+bordes: #706353 (coffee-500)
+boton ppal: #706353
+boton secundario:
+botón de acción:
+detalles:
